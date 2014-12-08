@@ -1,4 +1,4 @@
-package de.abas.training.java.mustererkennen;
+package de.abas.training.java.patterns;
 
 /**
  * Shows how to validate a ZIP code using a regular expression.
