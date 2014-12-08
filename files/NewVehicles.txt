@@ -1,0 +1,5 @@
+vehicleSequenceNumber;color;length;salesPrice
+2000_001;gelb;3.9;12999.1
+2000_002;black;4.32;13999
+2000_003;gelb;4.0;22999.55
+2000_004;blue;3.95;32999.5
